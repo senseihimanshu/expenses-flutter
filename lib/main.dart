@@ -14,8 +14,8 @@ class MyApp extends StatelessWidget {
       title: 'FlutterApp', 
       home: MyHomePage(),
       theme: ThemeData(
-        primarySwatch: Colors.blue,
-        accentColor: Colors.white,
+        primarySwatch: Colors.pink,
+        accentColor: Colors.black,
         fontFamily: 'Quicksand',
         appBarTheme: AppBarTheme(
           textTheme: ThemeData.light().textTheme.copyWith(
